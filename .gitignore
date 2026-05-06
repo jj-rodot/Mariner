@@ -1,4 +1,5 @@
 /build
 /.vscode
 /libraries/*
+/.DS_Store
 !/libraries/.gitkeep

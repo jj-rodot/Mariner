@@ -5,7 +5,7 @@
 - clang++ with C++23 support
 - CMake 3.21+
 - Git
-- macOS (Metal backend, Cocoa/AppKit frameworks required)
+- macOS
 
 ## Build
 

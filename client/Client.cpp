@@ -33,7 +33,7 @@ int main() {
     Camera->StartRendering();
 
     RunService->Run();
-    //TaskScheduler->Start();
+    TaskScheduler->Start();
 
     return 0;
 
